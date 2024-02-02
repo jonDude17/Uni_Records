@@ -1,4 +1,5 @@
 University Records DApp
+
 Welcome to the University Records DApp repository! This decentralized application (DApp) is designed to provide students with a secure and efficient means of accessing their school records using a unique key, in this case, their date of birth.
 
 Overview
@@ -39,7 +40,5 @@ We welcome contributions from the community. Whether it's bug fixes, feature enh
 License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-Contact
-For any questions or concerns, please reach out to [your-email@example.com].
 
 Thank you for your interest in the University Records DApp! We hope it serves as a valuable tool for enhancing the security and accessibility of student records.
